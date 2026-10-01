@@ -95,6 +95,29 @@ Main Menu:
    Maximum
    Sum
    Average
+   🧠 Python Concepts Demonstrated
+
+This project demonstrates the following Python concepts:
+
+Concept	Purpose
+len()	Count the number of elements
+sum()	Calculate the total
+min()	Find the minimum value
+max()	Find the maximum value
+User-Defined Functions	Divide the program into reusable functions
+*args	Accept multiple arguments
+**kwargs	Accept multiple keyword arguments
+__doc__	Store function documentation
+Recursion	Calculate factorial
+Lambda Function	Perform filtering
+filter()	Filter values based on a condition
+map()	Transform values for display
+Global Variable	Maintain data across functions
+Multiple Return Values	Return multiple statistics
+1D List	Store numerical data
+2D List	Store data in rows and columns
+sort()	Sort a list
+sorted()	Create a sorted list
 
 ## Screenshots
 

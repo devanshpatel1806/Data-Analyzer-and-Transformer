@@ -190,25 +190,43 @@ Sorting values in ascending or descending order.
 Converting a 2D list into a 1D list for analysis.
 Calculating statistical information from the dataset.
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-### Input Data
-![Input Data](screenshots/input_data.png)
+The following screenshots show the different features and outputs of the Data Analyzer and Transformer program.
 
-### Data Summary
-![Data Summary](screenshots/data_summary.png)
+## Input Data
 
-### Factorial Calculation
-![Factorial Calculation](screenshots/factorial.png)
+![Input Data](input_data.png)
 
-### Filter Data by Threshold
-![Filter Data](screenshots/filter_data.png)
+---
 
-### Sorting Data
-![Sorting](screenshots/sorting.png)
+## Data Summary
 
-### Exit Program
-![Exit Program](screenshots/exit.png)
+![Data Summary](data_summary.png)
+
+---
+
+## Factorial Calculation
+
+![Factorial Calculation](factorial.png)
+
+---
+
+## Filter Data by Threshold
+
+![Filter Data](filter_data.png)
+
+---
+
+## Sorting Data
+
+![Sorting](sorting.png)
+
+---
+
+## Exit Program
+
+![Exit Program](exit.png)
 
 ## Explanation Video
 

@@ -52,65 +52,65 @@ Main Menu:
 ## Features
 1. Input Data
 
-The user can enter:
+   The user can enter:
 
-1D numerical data
-2D list data
-Sample data
+   1D numerical data
+   2D list data
+   Sample data
 
 2. Display Data Summary
 
-This option calculates and displays:
+   This option calculates and displays:
 
-Total number of elements
-Minimum value
-Maximum value
-Sum of all values
-Average value
+   Total number of elements
+   Minimum value
+   Maximum value
+   Sum of all values
+   Average value
 
 3. Calculate Factorial
 
-The factorial option uses recursion to calculate the factorial of a number.
+   The factorial option uses recursion to calculate the factorial of a number.
 
 4. Filter Data by Threshold
 
-The program uses a lambda function with filter() to display values greater than or equal to the entered threshold.
+   The program uses a lambda function with filter() to display values greater than or equal to the entered threshold.
 
 5. Sort Data
 
-The program provides two sorting options:
+   The program provides two sorting options:
 
-1. Ascending
-2. Descending
+   1. Ascending
+   2. Descending
 
-Both sort() and sorted() are demonstrated.
+   Both sort() and sorted() are demonstrated.
 
 6. Display Dataset Statistics
 
-This option uses a user-defined function that returns multiple values.
+   This option uses a user-defined function that returns multiple values.
 
-The program displays:
+   The program displays:
 
-Minimum
-Maximum
-Sum
-Average
+   Minimum
+   Maximum
+   Sum
+   Average
 
 ## Screenshots
 
 Screenshots of the program execution are added below.
 
-# Main Menu
+- Main Menu
 
-# Data Summary
+- Data Summary
 
-# Factorial
+- Factorial
 
-# Lambda Filter
+- Lambda Filter
 
-# Sorting
+- Sorting
 
-# Dataset Statistics
+- Dataset Statistics
 
 ## Explanation Video
 

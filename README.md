@@ -95,29 +95,101 @@ Main Menu:
    Maximum
    Sum
    Average
-   🧠 Python Concepts Demonstrated
 
-This project demonstrates the following Python concepts:
+# 🧠 Python Concepts Demonstrated
 
-Concept	Purpose
-len()	Count the number of elements
-sum()	Calculate the total
-min()	Find the minimum value
-max()	Find the maximum value
-User-Defined Functions	Divide the program into reusable functions
-*args	Accept multiple arguments
-**kwargs	Accept multiple keyword arguments
-__doc__	Store function documentation
-Recursion	Calculate factorial
-Lambda Function	Perform filtering
-filter()	Filter values based on a condition
-map()	Transform values for display
-Global Variable	Maintain data across functions
-Multiple Return Values	Return multiple statistics
-1D List	Store numerical data
-2D List	Store data in rows and columns
-sort()	Sort a list
-sorted()	Create a sorted list
+This project demonstrates the following important Python concepts:
+
+### 1. Built-in Functions
+
+The project uses Python built-in functions for data analysis:
+
+- `len()` – Counts the total number of elements.
+- `sum()` – Calculates the sum of all values.
+- `min()` – Finds the minimum value.
+- `max()` – Finds the maximum value.
+
+### 2. User-Defined Functions
+
+Different functions are created to perform specific tasks such as:
+
+- Inputting data
+- Displaying the data summary
+- Calculating factorial
+- Filtering data
+- Sorting data
+- Displaying statistics
+
+### 3. `*args`
+
+The `*args` concept is used to allow a function to accept multiple values as arguments.
+
+### 4. **kwargs
+
+The **kwargs concept is used to pass multiple keyword arguments to a function.
+
+### 5. __doc__
+
+Docstrings are used in the project to provide descriptions of functions.
+
+### 6. Recursion
+
+Recursion is demonstrated through the factorial calculation.
+
+The factorial function calls itself until the base condition is reached.
+
+### 7. Lambda Function
+
+A lambda function is used to filter data according to a threshold.
+
+### 8. filter()
+
+The filter() function is used together with the lambda function to select values that satisfy a condition.
+
+### 9. map()
+
+The map() function is used to convert the filtered numerical values into strings for displaying the result.
+
+### 10. Global Variable
+
+A global variable is used to store the dataset so that it can be accessed and modified by different functions.
+
+### 11. Multiple Return Values
+
+The project demonstrates how a function can return multiple values.
+
+The statistics function returns:
+
+Minimum value
+Maximum value
+Sum
+Average
+
+### 12. 1D List
+
+A one-dimensional list is used to store numerical data.
+
+### 13. 2D List
+
+A two-dimensional list is used to represent data in rows and columns.
+
+### 14. sort()
+
+The sort() method is used to sort a copy of the dataset in ascending order.
+
+### 15. sorted()
+
+The sorted() function is used to create a sorted version of the dataset.
+
+### 16. Data Filtering and Transformation
+
+The project performs basic data transformation by:
+
+Filtering values according to a threshold.
+Sorting values in ascending or descending order.
+Converting a 2D list into a 1D list for analysis.
+Calculating statistical information from the dataset.
+
 
 ## Screenshots
 

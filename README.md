@@ -190,22 +190,25 @@ Sorting values in ascending or descending order.
 Converting a 2D list into a 1D list for analysis.
 Calculating statistical information from the dataset.
 
+## 📸 Screenshots
 
-## Screenshots
+### Input Data
+![Input Data](screenshots/input_data.png)
 
-Screenshots of the program execution are added below.
+### Data Summary
+![Data Summary](screenshots/data_summary.png)
 
-- Main Menu
+### Factorial Calculation
+![Factorial Calculation](screenshots/factorial.png)
 
-- Data Summary
+### Filter Data by Threshold
+![Filter Data](screenshots/filter_data.png)
 
-- Factorial
+### Sorting Data
+![Sorting](screenshots/sorting.png)
 
-- Lambda Filter
-
-- Sorting
-
-- Dataset Statistics
+### Exit Program
+![Exit Program](screenshots/exit.png)
 
 ## Explanation Video
 
